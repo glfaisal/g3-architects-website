@@ -22,6 +22,13 @@
 
 }
 
+.section-title {
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: #131313;
+
+}
+
 /* Header Styles */
 header {
     background: rgba(255, 144, 14, 0.10);
@@ -35,12 +42,7 @@ nav {
 
 }
 
-.nav-title {
-    font-size: 2.8rem;
-    font-weight: 700;
-    color: #131313;
 
-}
 
 
 nav>ul {
